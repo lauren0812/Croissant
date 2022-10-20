@@ -1,0 +1,13 @@
+body {
+  background-color: blanchedalmond;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+}
